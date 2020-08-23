@@ -1,0 +1,14 @@
+{
+    "name": "com.unity.albarnie.playercontroller2d",
+    "displayName": "2D Player Controller",
+    "version": "1.0.0",
+    "unity": "2019.3",
+    "description": "This package provides X, Y, and Z. \n\nTo find out more, click the \"View Documentation\" link.",
+    "keywords": ["controller, 2D, Player"],
+    "category": "Controllers",
+    "dependencies": 
+    {
+        "com.unity.inputsystem": "1.0.0",
+        "com.unity.albarnie.inputmanager": "1.0.0"
+    }
+}

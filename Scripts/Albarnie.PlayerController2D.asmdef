@@ -1,0 +1,16 @@
+{
+    "name": "Albarnie.PlayerController2D",
+    "references": [
+        "GUID:495c0b67596e0ad46a18107113c61238",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
